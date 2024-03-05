@@ -51,8 +51,17 @@ The following bullet points are sourced from [1].
 35. Even if the final year Ph.D. student submits a paper and the paper gets accepted, it would come too late for the job application.
 35. The faculty job application process takes several grueling months of serious effort, and many applicants still end up with no offers.
 36. Each university department offers at most one or two tenure-track professor job positions each year, and over a hundred highly qualified senior Ph.D. students, postdocs, and research scientists fight for these coveted spots.
-37. It is important to deeply understand the motivations and incentives of one's potential collaborators before working with them. For example, tenured professors have less incentive to publish papers than pre-tenure professsors.
-38.
+37. It is important to deeply understand the motivations and incentives of one's potential collaborators before working with them. For example, tenured professors have less incentive to publish papers than pre-tenured professors.
+38. Professors in computer science usually let their students be the first author, even if the student's project was based on their ideas.
+39. Professors are busy with their duties, such as teaching committee work, and peer reviewing, so they need students to execute their visions.
+40. Professor's research projects tend to have low odds of success since tenured professors can take risks by attempting bolder project ideas since their job is never in danger. However, this is dangerous for students who need publishing since the research projects can go through multiple students before being successful. This process can take years and take longer than a Ph.D. student's graduate school lifetime. This can stunt the student's academic career and be a major roadblock for students.
+41. Students who are funded by professors often can't refuse to work on these low-success research projects since the student is funded by the advisor's grants.
+42. The primary reason of Microsoft Research (MSR) is to perform fundamental science and engineering research with the intent of publishing top-tier academic papers in computer science and a few related fields.
+43. The full-time researchers at Microsoft Research are like professors, but they can focus nearly all of their time on research since they don't have teaching or advising duties nor have to apply for grant funding.
+44. Since lots of computer science research is labor-intensive, researchers often hire Ph.D. students as summer interns to help implement their ideas.
+45. It's a great deal for both parties since students will get the chance to publish top-tier papers with famous researchers outside their universities and possibly get letters of recommendation for future jobs.
+46. Most interns get their jobs through connections. Usually, a student's advisor makes a direct recommendation to a relevant Microsoft Research colleague.
+47. It is important to be endorsed by an influential person; simply doing good work isn't enough to get noticed in a hyper-competitive field.
 
 Citations:
 [1]. http://www.pgbovine.net/PhD-memoir.htm
