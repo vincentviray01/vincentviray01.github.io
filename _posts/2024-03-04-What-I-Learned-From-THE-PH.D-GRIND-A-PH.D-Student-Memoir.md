@@ -1,6 +1,6 @@
 THE PH.D. GRIND: A Ph.D Student Memoir is a short biography about Phillip J. Guo's journey in earning his Ph.D. in Computer Science at Stanford University from 2006 to 2012.
 
-The following bullet points are sourced from [1].
+The following bullet points are some things I learned after reading this book (sourced from [1]).
 
 1. Aligning with your advisor's research interests is wise if your goal is to publish papers.
 2. Fellowships allow students the freedom to not be obligated to work on specific grant-funded projects.
@@ -30,19 +30,19 @@ The following bullet points are sourced from [1].
 17. Ph.D. students, especially first- and second-years, are the ones who must bear the brunt of the most tedious labor.
 18. In a typical research group, the professor and senior Ph.D. students create high-level project plans and then assign the junior students to grind on making all of the details work in practice.
 19. First- and second-year students are rarely able to affect the overall direction of the group's project.
-20. Even though a fellowship theoretically gives a student the financial freedom to pursue whatever research direction they want, a student still needs the support of some advisor to eventually graduate. This could mean being a "good soldier" and grind on an advisor's project for a few months to "pay your dues".
+20. Even though a fellowship theoretically gives a student the financial freedom to pursue whatever research direction they want, a student still needs the support of some advisor to eventually graduate. This could mean being a "good soldier" and grinding on an advisor's project for a few months to "pay your dues".
 21. Going solo so early during grad school is a terrible decision as there needs to be solid intellectual, historical, and sometimes even physical foundations (e.g. laboratory equipment) for developing one's innovations.
 22. Instead of going solo early on, it's wiser to talk with your advisor more frequently and to actively seek out collaboration with other professors or senior students.
-23. Be proactive in talking with professors to find research topics that are mutually interesting, and no matter what, don't just hole up in isolation.
+23. Be proactive in talking with professors to find mutually interesting research topics, and no matter what, don't just hole up in isolation.
 24. Research Pitch Possible Format:
   1. What's the problem?
   2. What's my proposed solution?
   3. What compelling experiments can I run to demonstrate the effectiveness of my solution?
 25. Thinking in terms of experiments when proposing research project ideas is good because professors are motivated by having their names appear on published papers and computer science conference papers usually need strong experiments to get accepted for publication. 
 26. Thus, it is critical to think about experiment design at project inception time.
-27. Assistant (pre-tenure) professors are good to work with since they are eager to publish more papers in order to earn tenure.
+27. Assistant (pre-tenure) professors are good to work with since they are eager to publish more papers to earn tenure.
 28. If you have a fellowship, it's easier to work with any professor since they don't have to fund you from their grants, so there's no real downside for them.
-29. Almost all computer science papers are coauthored by multiple collaborators, and the order in which authors are listed actually matters.
+29. Almost all computer science papers are coauthored by multiple collaborators, and the order in which authors are listed matters.
 30. The author whose name appears first is the project leader (e.g., Joel) who does more work than all subsequently listed authors and thus deserves most of the credit.
 31. All other authors are project assistants (usually younger students or distant colleagues who contributed enough to warrant their names being on the paper).
 32. Ph.D. students often list their advisor as the last author, since the advisor helps with idea formulation, project planning, and paper writing.
@@ -56,12 +56,37 @@ The following bullet points are sourced from [1].
 39. Professors are busy with their duties, such as teaching committee work, and peer reviewing, so they need students to execute their visions.
 40. Professor's research projects tend to have low odds of success since tenured professors can take risks by attempting bolder project ideas since their job is never in danger. However, this is dangerous for students who need publishing since the research projects can go through multiple students before being successful. This process can take years and take longer than a Ph.D. student's graduate school lifetime. This can stunt the student's academic career and be a major roadblock for students.
 41. Students who are funded by professors often can't refuse to work on these low-success research projects since the student is funded by the advisor's grants.
-42. The primary reason of Microsoft Research (MSR) is to perform fundamental science and engineering research with the intent of publishing top-tier academic papers in computer science and a few related fields.
+42. The primary reason for Microsoft Research (MSR) is to perform fundamental science and engineering research with the intent of publishing top-tier academic papers in computer science and a few related fields.
 43. The full-time researchers at Microsoft Research are like professors, but they can focus nearly all of their time on research since they don't have teaching or advising duties nor have to apply for grant funding.
 44. Since lots of computer science research is labor-intensive, researchers often hire Ph.D. students as summer interns to help implement their ideas.
 45. It's a great deal for both parties since students will get the chance to publish top-tier papers with famous researchers outside their universities and possibly get letters of recommendation for future jobs.
 46. Most interns get their jobs through connections. Usually, a student's advisor makes a direct recommendation to a relevant Microsoft Research colleague.
 47. It is important to be endorsed by an influential person; simply doing good work isn't enough to get noticed in a hyper-competitive field.
+48. Internships are valuable to get access to a rich array of internal data sets, such as Microsoft's software bugs and personnel files.
+49. Most students have their advisors choose committee members for their thesis committee.
+50. Published workshop papers usually do not count as a dissertation contribution.
+51. Workshop papers are meant to disseminate early ideas and are not scrutinized as rigorously as conference papers.
+52. A conference paper submission has an 8 to 30 percent chance of acceptance.
+53. A workshop paper submission has a 60 to 80 percent chance of acceptance.
+54. A lot of professors may discourage students from submitting to workshops since if the paper gets accepted, the professor must pay around $1500 of travel, hotel, and registration costs using their grant money for the student to attend and give a talk at the workshop.
+55. It costs about the same amount to send a student to a workshop as to a conference and conference papers are more prestigious.
+56. The biggest difference between a workshop and a conference paper is that a conference paper must have a convincing experimental evaluation that shows the effectiveness of the tool or technique being described in the paper.
+57. A paper's evaluation section can come in many flavors ranging from measurements of run-time performance to a controlled laboratory study of user behavior.
+58. Since many researchers come up with similar ideas, reviewers carefully scrutinize how those ideas are implemented and experimentally evaluated when deciding which papers to accept and reject.
+59. The purpose of academic research is to produce validated ideas, not polished products.
+60. Professors may discourage late-stage Ph.D. students from doing internships since they want students to focus on finishing their dissertations.
+61. Grants are usually given to more mainstream computer science topics, so it's harder to be a professor if your research area is more niche. This is because, without grant money, you can't fund students who you need to work on experiments needed for tenure.
+62. The main purpose of a postdoc is to boost one's resume to improve the chances of getting a university faculty job.
+63. Networking is key for academic careers.
+64. The writing in a dissertation is typically combining one's published papers into a single document and surrounding their contents with introductory and concluding chapters.
+65. It's a good idea to ask your advisor what it takes to graduate. If they give you a "thumbs up" to start writing your dissertation, then that is a good sign.
+66. One of the biggest challenges of an oral defense is finding the time when everyone on the thesis committee is free for a few hours.
+67. Results trump intentions. No one will question your intentions if you produce good results.
+68. Don't focus too much on reading papers and end up not synthesizing anything.
+69. Give many talks in grad school. They are good practice for improving public speaking skills and in responding to sometimes hostile questions. Additionally, follow-up discussions can lead to new opportunities.
+70. What often makes the difference between an accept and a reject decision is how well a paper's marketing pitch appeals to reviewers' tastes.
+71. It's nearly impossible to come up with substantive ideas in a vacuum.
+72. Ideas are always built upon other ideas, so it's important to find a solid starting point.
 
-Citations:
-[1]. http://www.pgbovine.net/PhD-memoir.htm
+Citations
+[1] http://www.pgbovine.net/PhD-memoir.htm
