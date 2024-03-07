@@ -14,15 +14,15 @@ The following bullet points are some things I learned after reading this book (s
 10. In computer science, the most prestigious venues for publishing papers are conferences.
 11. In many other academic disciplines, journals are the most prestigious venues, and the word "conference" means something quite different.
 12. The computer science publication process works roughly as follows:
-  1. Each conference issues a call for papers with a list of topics of interest and a specific submission deadline.
-  2. Researchers submit their papers by that deadline. Each conference typically receives 100 to 300 paper submissions, and each paper contains the equivalent of 30 to 40 pages of double-spaced text.
-  3. The conference program committee (PC), consisting of around 20 expert researchers, splits up the submitted papers and reviews them.
-  4. Each paper is reviewed by three to five people, who are either PC members or volunteer external reviewers solicited by PC members.
-  5. The review process takes about three months.
-  6. After everyone on the program committee is done with their reviews, the program committee meets and decides which papers to accept and which to reject based on reviewer preferences.
-  7. The program committee emails all authors to notify them of whether their papers have been accepted or rejected and attaches the written reviews to the notification emails.
-  8. Authors of accepted papers attend the conference to give a 30-minute talk on their paper.
-  9. All accepted papers are then archived online in a digital library.
+    1. Each conference issues a call for papers with a list of topics of interest and a specific submission deadline.
+    2. Researchers submit their papers by that deadline. Each conference typically receives 100 to 300 paper submissions, and each paper contains the equivalent of 30 to 40 pages of double-spaced text.
+    3. The conference program committee (PC), consisting of around 20 expert researchers, splits up the submitted papers and reviews them.
+    4. Each paper is reviewed by three to five people, who are either PC members or volunteer external reviewers solicited by PC members.
+    5. The review process takes about three months.
+    6. After everyone on the program committee is done with their reviews, the program committee meets and decides which papers to accept and which to reject based on reviewer preferences.
+    7. The program committee emails all authors to notify them of whether their papers have been accepted or rejected and attaches the written reviews to the notification emails.
+    8. Authors of accepted papers attend the conference to give a 30-minute talk on their paper.
+    9. All accepted papers are then archived online in a digital library.
 13. A prestigious top-tier conference paper accepts 8 to 16 percent of submitted papers.
 14. A second-tier conference accepts 20 to 30 percent of submitted papers.
 15. Due to these relatively low acceptance rates, it's not uncommon for a paper to be rejected, revised, and resubmitted several times before being accepted for publication - a process that may take several years.
@@ -35,9 +35,9 @@ The following bullet points are some things I learned after reading this book (s
 22. Instead of going solo early on, it's wiser to talk with your advisor more frequently and to actively seek out collaboration with other professors or senior students.
 23. Be proactive in talking with professors to find mutually interesting research topics, and no matter what, don't just hole up in isolation.
 24. Research Pitch Possible Format:
-  1. What's the problem?
-  2. What's my proposed solution?
-  3. What compelling experiments can I run to demonstrate the effectiveness of my solution?
+    1. What's the problem?
+    2. What's my proposed solution?
+    3. What compelling experiments can I run to demonstrate the effectiveness of my solution?
 25. Thinking in terms of experiments when proposing research project ideas is good because professors are motivated by having their names appear on published papers and computer science conference papers usually need strong experiments to get accepted for publication. 
 26. Thus, it is critical to think about experiment design at project inception time.
 27. Assistant (pre-tenure) professors are good to work with since they are eager to publish more papers to earn tenure.
