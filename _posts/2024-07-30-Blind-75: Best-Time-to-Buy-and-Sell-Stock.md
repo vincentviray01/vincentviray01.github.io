@@ -1,4 +1,4 @@
-https://leetcode.com/problems/two-sum/description/
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 ```
 class Solution:
